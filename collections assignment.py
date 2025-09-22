@@ -13,6 +13,7 @@ def get_letter_grade(avg):
 # Input
 name = input("Enter the student name: ")
 
+
 g1 = float(input("Enter grade 1: "))
 g2 = float(input("Enter grade 2: "))
 g3 = float(input("Enter grade 3: "))
